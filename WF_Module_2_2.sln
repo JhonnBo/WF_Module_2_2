@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_", "1_\1_.csproj", "{B5EC24E4-9325-4CF9-9A60-4CC1AE3E63EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxControl", "CheckBoxControl\CheckBoxControl.csproj", "{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimePickerControl", "DateTimePickerControl\DateTimePickerControl.csproj", "{E540CA55-D851-410C-9101-C70D1B633396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthCalendarControl", "MonthCalendarControl\MonthCalendarControl.csproj", "{53495515-8682-424E-81F2-C88B2797B093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButtonControl", "RadioButtonControl\RadioButtonControl.csproj", "{14051300-CBCF-47F3-B65D-EFAB25E0FB35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxComboBoxControls", "TextBoxComboBoxControls\TextBoxComboBoxControls.csproj", "{5442ED4E-6E39-47AB-AFFA-351C49D8B7C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureBoxControl", "PictureBoxControl\PictureBoxControl.csproj", "{4908036D-6658-405A-89C6-FCF8173300A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5EC24E4-9325-4CF9-9A60-4CC1AE3E63EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5EC24E4-9325-4CF9-9A60-4CC1AE3E63EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5EC24E4-9325-4CF9-9A60-4CC1AE3E63EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5EC24E4-9325-4CF9-9A60-4CC1AE3E63EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E540CA55-D851-410C-9101-C70D1B633396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E540CA55-D851-410C-9101-C70D1B633396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E540CA55-D851-410C-9101-C70D1B633396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E540CA55-D851-410C-9101-C70D1B633396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53495515-8682-424E-81F2-C88B2797B093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53495515-8682-424E-81F2-C88B2797B093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53495515-8682-424E-81F2-C88B2797B093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53495515-8682-424E-81F2-C88B2797B093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14051300-CBCF-47F3-B65D-EFAB25E0FB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14051300-CBCF-47F3-B65D-EFAB25E0FB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14051300-CBCF-47F3-B65D-EFAB25E0FB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14051300-CBCF-47F3-B65D-EFAB25E0FB35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5442ED4E-6E39-47AB-AFFA-351C49D8B7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5442ED4E-6E39-47AB-AFFA-351C49D8B7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5442ED4E-6E39-47AB-AFFA-351C49D8B7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5442ED4E-6E39-47AB-AFFA-351C49D8B7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4908036D-6658-405A-89C6-FCF8173300A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4908036D-6658-405A-89C6-FCF8173300A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4908036D-6658-405A-89C6-FCF8173300A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4908036D-6658-405A-89C6-FCF8173300A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9768A516-3F69-44FE-8AC9-A4BC03D8BDB1}
+	EndGlobalSection
+EndGlobal
